@@ -1,4 +1,4 @@
 Github_Test
 ===========
 
-First Github repository.
+A First Github repository to demonstrate Git.
